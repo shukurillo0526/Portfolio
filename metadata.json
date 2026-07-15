@@ -1,0 +1,6 @@
+{
+  "name": "Shukurillokh Mamarasulov - Agentic Portfolio",
+  "description": "A highly polished, responsive developer portfolio featuring projects, skills visualization, an experience timeline, and an interactive contact form.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
